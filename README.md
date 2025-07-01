@@ -1,25 +1,23 @@
 # Desafio
-# DIO - Resumos Git e GitHub
+# Alura - Comandos Git e GitHub
 
-Repositórios para armazenar resumos sobre Git  GitHub do curso de
-versionamento de código com Git e GitHub.
-[Digital Invation One](https://www.dio.me/)
+Git e GitHub: compartilhando e colaborando em projetos.
+[Alura é a maior escola online de tecnologia do Brasil](https://www.alura.com.br/)
 
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/docs)
-- [Digital Invation One](https://www.dio.me/)
+- [Alura é a maior escola online de tecnologia do Brasil](https://www.alura.com.br/)
 
 ## 💻 Resumos da Aulas
 
-| Aulas | Resumos |
-|-------|---------|
-|Gravando alterações no repositório local | [Resumos]() |
-
+| Aulas | Resumos Notion|
+|-------|---------------|
+|Resumos das aulas de Git e GitHub| [Ver Resumos](https://www.notion.so/Git-e-GitHub-Comandos-22390ddb81fc8055a5a5c792b721a1a2?source=copy_link)
 ---
 
-git Init 
+Git e GitHub
 ---
 
 ## 🔎 Referências
 
-- [Digital Invation One](https://www.dio.me/)
+- [Alura é a maior escola online de tecnologia do Brasil](https://www.alura.com.br/)
